@@ -1,7 +1,6 @@
 import pyaudio
 import numpy as np
 import scipy.signal as signal
-import random
 
 # Constants for audio processing
 FORMAT = pyaudio.paInt16
